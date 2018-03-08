@@ -1,0 +1,18 @@
+.streetfood{
+    width: 100%;
+}
+body{
+    font-family: Josefin Sans;
+}
+.head{
+    background-color: white;
+}
+.thumbnail {
+    position: relative;
+    padding: 0px;
+    margin-bottom: 20px;
+}
+
+.thumbnail img {
+    width: 100%;
+}

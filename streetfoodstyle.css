@@ -1,0 +1,40 @@
+.streetfood{
+    width: 100%;
+}
+body{
+    font-family: Josefin Sans;
+}
+.head{
+    background-color: white;
+}
+.thumbnail {
+    position: relative;
+    padding: 0px;
+    margin-bottom: 20px;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+.hotelcard{
+    box-shadow: 0px 0px 30px;
+}
+.hotelcard:hover{
+    box-shadow: 0px 0px 55px #be1e2d;
+}
+.card-img-top{
+  transition: width 0.2s;
+}
+.card-img-top:hover{
+  transform: scale(1.01);
+  opacity:0.92;
+}
+.btncol{
+    background-color: #cd202d;
+}
+.row_cover{
+  margin-top: 4.5%;
+}
+.hr_row{
+  border: 2px dashed #cd202d;
+}
